@@ -21,7 +21,7 @@ This project focuses on semantic HTML structure, responsive layouts, accessibili
 
 ## Live Demo
 
-- Live Site: https://juansanchezzzzz.github.io/social-links-profile/
+- Live Site: [https://juansanchezzzzz.github.io/social-links-profile/](https://juansanchezzzzz.github.io/Social-links-profile/)
 - Frontend Mentor Challenge: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
 
 ---
